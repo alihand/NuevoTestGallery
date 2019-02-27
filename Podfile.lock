@@ -1,0 +1,20 @@
+PODS:
+  - ImageLoader (0.14.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - ImageLoader
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ImageLoader
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ImageLoader: 56f57e35d6ed26a74183dc2e472133b4b22eb7b9
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 6a68ab62014197e0c30153eae2862a1d48951f1e
+
+COCOAPODS: 1.6.1

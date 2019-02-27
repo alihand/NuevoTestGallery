@@ -1,0 +1,6 @@
+module Pods_NuevoTestGallery {
+  umbrella header "Pods-NuevoTestGallery-umbrella.h"
+
+  export *
+  module * { export * }
+}
